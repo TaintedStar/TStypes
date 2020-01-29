@@ -1,5 +1,5 @@
 import { Attacks } from "./Attacks";
-import { Types } from "./Types";
+import { Types } from "./Types.d";
 
 export default interface Creature {
   name: String,
