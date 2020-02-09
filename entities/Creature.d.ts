@@ -1,7 +1,7 @@
 import { Attacks } from "./Attacks";
 import { Types } from "./Types.d";
 
-export default interface Creature {
+export interface Creature {
   name: String,
   health: Number,
   attack: Number,
